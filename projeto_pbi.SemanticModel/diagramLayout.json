@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 106,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 593.73514401469413,
+            "y": 26.307238389799679
+          },
+          "nodeIndex": "calendario",
+          "nodeLineageTag": "e418d4ad-153c-417d-a704-d3d68d67ea29",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 531.13358801469326,
+            "y": 280.685317
+          },
+          "nodeIndex": "cotacoes",
+          "nodeLineageTag": "9d130c8b-e2f8-4142-bc26-e72b531c04da",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1319.0404767722698,
+            "y": 104.62267215747629
+          },
+          "nodeIndex": "data_final",
+          "nodeLineageTag": "9e90ebc4-f1a5-4150-905f-88627e35bd49",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 294.20156119318506,
+            "y": 46.844697959845519
+          },
+          "nodeIndex": "moedas",
+          "nodeLineageTag": "662e67e9-931f-4d50-8ebc-df2a63d2e956",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 106,
+            "y": 290.98511077959938
+          },
+          "nodeIndex": "transacoes",
+          "nodeLineageTag": "09574115-1101-40c1-a631-d179fb91a480",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 87.526584793412752,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
