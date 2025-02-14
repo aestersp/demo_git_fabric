@@ -4,7 +4,7 @@
     {
       "ordinal": 0,
       "scrollPosition": {
-        "x": 106,
+        "x": 0,
         "y": 0
       },
       "nodes": [
@@ -36,19 +36,6 @@
         },
         {
           "location": {
-            "x": 1319.0404767722698,
-            "y": 104.62267215747629
-          },
-          "nodeIndex": "data_final",
-          "nodeLineageTag": "9e90ebc4-f1a5-4150-905f-88627e35bd49",
-          "size": {
-            "height": 104,
-            "width": 234
-          },
-          "zIndex": 4
-        },
-        {
-          "location": {
             "x": 294.20156119318506,
             "y": 46.844697959845519
           },
@@ -75,7 +62,7 @@
         }
       ],
       "name": "Todas as tabelas",
-      "zoomValue": 87.526584793412752,
+      "zoomValue": 90,
       "pinKeyFieldsToTop": false,
       "showExtraHeaderInfo": false,
       "hideKeyFieldsWhenCollapsed": false,
